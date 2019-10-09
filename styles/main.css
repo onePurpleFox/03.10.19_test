@@ -1,0 +1,48 @@
+.header {
+  position: absolute;
+  width: 1920px;
+  height: 1005.5px;
+  left: 0px;
+  top: 0px;
+  background-image : url(/img/Group_7.svg) ;
+}
+.font_regular {
+
+}
+.font_bold {
+
+}
+.meta {
+  width: 1155px;
+}
+.wrapper_data_bitcoin {
+  display: flex;
+  position: absolute;
+  width: 642px;
+  height: 18px;
+  left: 389px;
+  top: 9px;
+
+  font-family: Proxima Nova;
+  font-size: 14px;
+  line-height: 17px;
+
+  color: #ffffff;
+}
+.wrapper_data {
+}
+.wrapper_bitcoin {
+}
+.wrpapper_lenguege {
+  position: absolute;
+  width: 91px;
+  height: 18px;
+  left: 1453px;
+  top: 9px;
+
+  font-family: Proxima Nova;
+  font-size: 14px;
+  line-height: 17px;
+
+  color: #ffffff;
+}

@@ -1,0 +1,19 @@
+@font-face{
+
+    font-family: 'MyWebFont';
+    
+    src: url('../fonts/WebFont-Bold.eot');
+    
+    src: url('../fonts/WebFont-Bold.eot?iefix') format('eot'),
+    
+    url('../fonts/WebFont-Bold.woff') format('woff'),
+    
+    url('../fonts/WebFont-Bold.ttf') format('truetype'),
+    
+    url('../fonts/WebFont-Bold.svg#webfont') format('svg');
+    
+    font-weight: bold;
+    
+    font-style: normal;
+    
+    }
